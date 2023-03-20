@@ -1,0 +1,36 @@
+body{
+    background-color: #2b2b2b;
+}
+button{
+    align-content: center;
+    justify-content: center;
+    margin: auto;
+    padding: 0;
+    width: 220px;
+    height: 220px;
+    background-color: #333333;
+    border: none;
+    outline: none;
+    cursor: pointer;
+}
+#container{
+    display: flex;
+    justify-content: center;
+
+}
+h1{
+    text-align: center;
+    font-size: 50px;
+    color: white;
+    font-family:Tahoma;
+}
+
+img{
+    width: 220px;
+    height: 220px;
+    outline: none;
+    border: none;
+}
+div{
+    padding: 3px;
+}
